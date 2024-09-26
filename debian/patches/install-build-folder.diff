@@ -1,0 +1,11 @@
+Removed build from .npmignore to allow install 
+--- a/.npmignore
++++ b/.npmignore
+@@ -20,5 +20,4 @@
+ logs
+ results
+ node_modules
+-build
+-.DS_Store
+\ No newline at end of file
++.DS_Store
