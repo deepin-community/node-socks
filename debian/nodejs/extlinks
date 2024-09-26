@@ -1,0 +1,4 @@
+@types/node
+@types/ip
+smart-buffer
+@types/mocha

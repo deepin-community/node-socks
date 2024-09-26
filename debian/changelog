@@ -1,5 +1,19 @@
-template-repository (1.0-1) unstable; urgency=medium
+node-socks (2.7.1+dfsg-3) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Add patch to fix rebuild error with typescript 4.9.5 (Closes: #1055661)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ananthu C V <weepingclown@disroot.org>  Sun, 19 Nov 2023 17:09:01 +0530
+
+node-socks (2.7.1+dfsg-2) unstable; urgency=medium
+
+  * Team upload
+  * Update standards version to 4.6.2, no changes needed.
+
+ -- Yadd <yadd@debian.org>  Tue, 10 Jan 2023 22:31:51 +0400
+
+node-socks (2.7.1+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1025968)
+
+ -- Israel Galadima <izzygaladima@gmail.com>  Mon, 12 Dec 2022 11:39:10 +0000
